@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="index.ico">index.ico</file>
+
+    </qresource>
+</RCC>

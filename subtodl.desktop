@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=SubToDl
+Version=1.0
+Comment=Download your god damn subtitle real fast and easy !
+Exec=subtodl
+Icon=./index.ico
+Terminal=false
+Type=Application

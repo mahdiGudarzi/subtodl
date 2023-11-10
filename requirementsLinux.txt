@@ -1,0 +1,5 @@
+﻿beautifulsoup4==4.7.1
+lxml==4.6.5
+PyQt5
+requests==2.21.0
+wget==3.2
